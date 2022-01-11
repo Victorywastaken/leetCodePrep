@@ -1,4 +1,4 @@
-# leetCodePrep
+# Leet Code Prep Questions
 Hand Picked LeetCode questions
 
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
